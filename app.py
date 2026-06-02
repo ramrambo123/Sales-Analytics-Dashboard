@@ -541,3 +541,5 @@ else:
     # Footer
     st.divider()
     st.markdown("<div style='text-align: center; color: gray;'>Sales Analytics Dashboard | Simplified & Enhanced</div>", unsafe_allow_html=True)
+
+    #end of app.py
